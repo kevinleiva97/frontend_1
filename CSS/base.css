@@ -295,7 +295,7 @@
 
 .services h2 {
   color: #073256;
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 
@@ -310,7 +310,7 @@
 
 .company h2 {
   color: #073256;
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 
@@ -320,12 +320,12 @@
 }
 
 .contacts {
-  margin-left: 1%;
+  margin-left: 2%;
 }
 
 .contacts h2 {
   color: #073256;
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 
